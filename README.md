@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently studying for my French engineering degree<br>🤝 I’m looking for an internship starting in september 2023 in high-level programming<br>🌱 I’m currently learning computer science and management in IST Lisboa (ERASMUS)<br>
+🔭 I'm currently studying for my French engineering degree<br>🤝 I’ve been working for an 6 month in internship for Michelin in high-level programming<br>
 
 
 # 🌐 Socials:
