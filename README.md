@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently studying for my French engineering degree<br>🤝 I’ve been working for an 6 month in internship for Michelin in high-level programming<br>
+🔭 Recently graduated from ENSEA, engineering school in electronics and computer science<br>🤝 I spent 8 months at Michelin working in high-level programming.<br>
 
 
 # 🌐 Socials:
