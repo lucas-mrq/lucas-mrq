@@ -20,13 +20,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=lucas-mrq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucas-mrq&theme=tokyonight&hide_border=false)
-
----
-
 # 🌐 Connect with me
 
 📧 **lucasmarquet63800@gmail.com**
